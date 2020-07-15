@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="app_bar_margin">65dp</dimen>
+</resources>
